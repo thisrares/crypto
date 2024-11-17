@@ -1,0 +1,14 @@
+{
+  "name": "QuarkCoin",
+  "symbol": "QQCC",
+  "uri": "https://github.com/thisrares/crypto/blob/4fc2155b6456b7e41fa52ce8b05468e6853e8381/QuarkCoin.png",
+  "seller_fee_basis_points": 500,
+  "creators": [
+    {
+      "address": "FxZB6ba7LaowQjGRmHztRK23KGDr7j914eebaubXG7vR",
+      "verified": true,
+      "share": 100
+    }
+  ]
+}
+
